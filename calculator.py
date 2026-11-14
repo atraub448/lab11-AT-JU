@@ -1,3 +1,7 @@
+# https://github.com/atraub448/lab11-AT-JU
+# Partner 1: Aaron Traub
+# Partner 2: Jacob Urbina
+
 import math
 
 def square_root(a):
