@@ -17,7 +17,7 @@ class TestCalculator(unittest.TestCase):
     def test_subtract(self): # 3 assertions
         self.assertTrue(calculator.subtract(25,4)==21)
         self.assertIs(calculator.subtract(10, -5), 15)
-        self.assertEqual(calculator.subtract(-2,-6),-8)
+        self.assertEqual(calculator.subtract(-2,-6),4)
     #     fill in code
     # ##########################
 
